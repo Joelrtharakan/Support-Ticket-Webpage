@@ -79,12 +79,6 @@ $password = "your_pg_password";
 	•	Sanitize file uploads and user input to prevent SQL injection and XSS attacks.
 	•	Secure the uploads/ directory to prevent unauthorized access.
 
-⸻
-
-📸 Screenshots
-
-<img width="1507" alt="Screenshot 2025-06-24 at 12 54 30 PM" src="https://github.com/user-attachments/assets/9cc46412-0147-44a6-9659-0956922a3ba8" />
-
 
 ⸻
 
